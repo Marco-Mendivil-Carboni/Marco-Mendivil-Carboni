@@ -1,5 +1,5 @@
 # Hi 👋, I'm Marco Mendívil Carboni
-### A (undergraduate) physics student at [Universidad de Zaragoza](https://www.unizar.es/).
+### A (graduate) physics student at [Universidad de Zaragoza](https://www.unizar.es/).
 
 - 🔭 I’m currently working on my final project.
 - 👀 I’m interested in mechanics, statistical physics and computer simulation.
